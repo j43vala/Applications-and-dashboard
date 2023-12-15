@@ -39,3 +39,9 @@
      - Line 1, Line 2, Line 3, and Total Reactive Energy.
 
 ![Alt text](image-6.png)
+
+5. **power factor**
+
+   - **representation**: progress bar
+
+   ![Alt text](image-8.png)
