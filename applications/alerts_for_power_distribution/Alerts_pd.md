@@ -2,6 +2,13 @@
 
 - reference - https://learn.microsoft.com/en-us/power-bi/create-reports/service-set-data-alerts#manage-alerts
 
+
+| Alert ID | Location | Date Created | Description | Delete | On/Off |
+|----------|----------|---------------|------------|-------|--------|
+| 1        | energy meter 1  | 2023-01-15 | Low Frequency Alert | ❌ | <input type="checkbox" checked> |
+| 2        | sub meter 2 | 2023-02-03 | Excessive Energy Consumption |  ❌ | <input type="checkbox" checked> |
+
+
 ## Frequency Alerts - **threshold**
 
 ### Low Frequency
